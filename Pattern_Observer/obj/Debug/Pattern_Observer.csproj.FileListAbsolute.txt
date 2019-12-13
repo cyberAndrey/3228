@@ -1,0 +1,10 @@
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\obj\Debug\Pattern_Observer.csprojAssemblyReference.cache
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\obj\Debug\Pattern_Observer.Pattern_Observer.resources
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\obj\Debug\Pattern_Observer.Properties.Resources.resources
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\obj\Debug\Pattern_Observer.csproj.GenerateResource.cache
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\obj\Debug\Pattern_Observer.csproj.CoreCompileInputs.cache
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\bin\Debug\Pattern_Observer.exe.config
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\bin\Debug\Pattern_Observer.exe
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\bin\Debug\Pattern_Observer.pdb
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\obj\Debug\Pattern_Observer.exe
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Observer\Pattern_Observer\obj\Debug\Pattern_Observer.pdb
